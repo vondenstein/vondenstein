@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Stephen (@vondenstein). 
 - 👀 I’m interested in machine learning, OS/system design, and digital electronics.
-- 🏢 I’m currently working on cutting-edge software tools at S&P Global.
+- 🏢 I’m currently working on high-impact systems at Lockheed Martin.
 - 📫 Feel free to reach out using the links on my profile, or on [LinkedIn](https://www.linkedin.com/in/stephen-vondenstein/).
